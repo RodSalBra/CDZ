@@ -1,0 +1,23 @@
+@charset "UFT-8";
+
+body {background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+h1 {
+    color: gold;
+    background-color: darkorange;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: gold;
+}
+li {
+    color: azure;
+    font-size: 20px;
+}
+p {
+    color: azure;
+}
